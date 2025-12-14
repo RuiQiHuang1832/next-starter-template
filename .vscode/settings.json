@@ -1,4 +1,7 @@
 {
+  "workbench.colorCustomizations": {
+    "editor.wordHighlightBackground": "#00000000"
+  },
   // Editor settings
   "editor.formatOnSave": true,
   "editor.formatOnPaste": true,
